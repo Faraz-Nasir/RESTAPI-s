@@ -1,0 +1,4 @@
+.vscode/
+.mvn/
+src/main/resources/application.properties
+target/
