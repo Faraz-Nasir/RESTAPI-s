@@ -9,7 +9,7 @@
     - spring-boot-starter-data-jpa
 - Remember to start the SQL service before starting the project.
 - Pesonal Credentials are hidden 
-    - >src/main/java/com/<OrgName>/<ProjName>/resources/application.properties
+    - `>src/main/java/com/<OrgName>/<ProjName>/resources/application.properties`
         - Properties 
         - spring.application.name=<>
         - spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
